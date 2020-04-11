@@ -1,0 +1,25 @@
+{
+  "name": "soap-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YannChi/_IT-architecture_.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YannChi/_IT-architecture_/issues"
+  },
+  "homepage": "https://github.com/YannChi/_IT-architecture_#readme",
+  "dependencies": {
+    "soap": "^0.31.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
